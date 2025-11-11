@@ -14,3 +14,20 @@ const Header = ({ toggleModal, nbOfContacts }) => {
 }
 
 export default Header
+
+// import React from "react";
+// import HighlightIcon from '@mui/icons-material/Highlight';
+
+
+// function Header() {
+//   return (
+//     <header>
+//       <h1>
+//         <HighlightIcon />
+//         Contact List
+//       </h1>
+//     </header>
+//   );
+// }
+
+// export default Header;
